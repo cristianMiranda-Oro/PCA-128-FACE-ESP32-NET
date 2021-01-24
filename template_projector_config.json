@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "tensorPath": "https://github.com/cristianMiranda-Oro/PCA-128-FACE-ESP32-NET/blob/main/vecsFace10.tsv",
+      "metadataPath": "https://github.com/cristianMiranda-Oro/PCA-128-FACE-ESP32-NET/blob/main/metaFace10.tsv"
     }
   ]
 }
